@@ -1,9 +1,4 @@
-## Cálculo de Média
-**Linguagem Usada:**
-- Python 4.0
- 
- ```
- def calcular_media(nota1, nota2):
+def calcular_media(nota1, nota2):
  return (nota1 + nota2) / 2
 
 print("=== Sistema de Notas do Aluno")
@@ -15,9 +10,3 @@ if media >= 7.0:
  print("Status: APROVADO")
 else:
  print("Status: REPROVADO")
-  ```
-
-  *Autor: Kauã de Sousa Vieira*
- 
- [Clique aqui para acessar o meu Linkedin ](https://www.linkedin.com/in/kauatech/)
-
